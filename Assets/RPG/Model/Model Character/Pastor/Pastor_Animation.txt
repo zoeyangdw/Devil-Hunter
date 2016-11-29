@@ -1,0 +1,12 @@
+Pastor-Idle			0-60
+Pastor-Walk			110-150
+Pastor-Run			200-224
+Pastor-Attack1			280-305
+Pastor-Attack2			360-388
+Pastor-AttackCritical		450-475
+Pastor-TakeDamage1		530-547
+Pastor-TakeDamage2		600-613
+Pastor-Death			660-685
+Pastor-Cast			740-790
+Pastor-Skill1GroundImpact	851-885
+Pastor-Skill2Ball			940-973
